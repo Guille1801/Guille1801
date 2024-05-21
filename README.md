@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Guille1801 a international studen in japan!
+- 👋 Hi, I’m @Guille1801 a international student in japan!
 - 👀 I’m interested in learning about data science and programming!
 - 🌱 I’m currently learning R programming!
 - 💞️ I’m looking to collaborate in any project! I want to learn!
