@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guille1801 a international student in japan!
 - 👀 I’m interested in learning about data science and programming!
-- 🌱 I’m currently learning R programming!
+- 🌱 I’m currently learning R programming and Python for backend and data science!
 - 💞️ I’m looking to collaborate in any project! I want to learn!
 - 📫 How to reach me: guillermoanhuaman18@gmail.com
 
