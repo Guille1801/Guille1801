@@ -1,4 +1,4 @@
--👋 Hi, I’m @Guille1801, currently a fourth-year B.Sc. student at Tokyo International University.
+- 👋 Hi, I’m @Guille1801, currently a fourth-year B.Sc. student at Tokyo International University.
 - 🌱 I’m focused on data science and data engineering, leveraging languages like Python, R, and SQL, as well as experience in web development.
 - 💡 I’m passionate about using data-driven insights to guide decision-making and continually refining my technical skills.
 - 🤝 I’m open to collaboration on projects that foster learning and innovation.
