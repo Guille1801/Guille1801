@@ -1,10 +1,10 @@
-- 👋 System Engineer at Tokyo Technical Consultant, Tokyo.
-- 🌱 Backend, Data Science, Data Engineering, RAG, AI Engineering, ML
-- 🤝 I’m open to collaboration on projects that foster learning and innovation.
-- 🌐 I am a native Spanish speaker with advanced English and N3-level Japanese proficiency.
-- 📫 Feel free to reach out at: guillermoanhuaman18@gmail.com
+- 👋 System Engineer at Tokyo Technical Consultant, based in Tokyo, Japan.
+- 🌱 Passionate about Backend Development, Data Science, Data Engineering, RAG, AI Engineering, Machine Learning, and Process Automation.
+- 🤝 Open to collaborating on projects that promote learning, innovation, and technological growth.
+- 🌐 Native Spanish speaker with advanced English proficiency and intermediate Japanese skills (JLPT N2 level).
+- 📫 Feel free to reach out: guillermoanhuaman18@gmail.com
 
-- Quiero dormir amigos
+- 😴 そろそろ寝ないといけませんね...
 
 <!---
 Guille1801/Guille1801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
